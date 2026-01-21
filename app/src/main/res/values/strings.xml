@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voyage Flow</string>
+    <string name="start_location">Start location</string>
+    <string name="destination">Destination</string>
+    <string name="estimate_fare">Estimate Fare</string>
+    <string name="show_map">Show Map</string>
+</resources>

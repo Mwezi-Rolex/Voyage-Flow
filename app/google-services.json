@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170708053634",
+    "project_id": "matatu-navigation",
+    "storage_bucket": "matatu-navigation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170708053634:android:84f55d851244e0e2010e9b",
+        "android_client_info": {
+          "package_name": "com.example.matatu_navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlE1GWnN1PCfTF_GtCY9iM2WVeXp8eQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
